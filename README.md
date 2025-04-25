@@ -1,2 +1,2 @@
-# IS584Project
-IS584 Course Project
+# IS584CourseTermProject
+IS584 Course Term Project
