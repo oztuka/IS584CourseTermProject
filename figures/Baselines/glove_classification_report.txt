@@ -1,0 +1,13 @@
+                          precision    recall  f1-score   support
+
+                  Accept       0.76      0.71      0.73       735
+           Accept (Oral)       0.00      0.00      0.00        14
+         Accept (Poster)       0.38      0.16      0.22       299
+      Accept (Spotlight)       0.00      0.00      0.00        22
+           Accept (Talk)       0.00      0.00      0.00        10
+Invite to Workshop Track       0.00      0.00      0.00        29
+                  Reject       0.56      0.81      0.66       667
+
+                accuracy                           0.62      1776
+               macro avg       0.24      0.24      0.23      1776
+            weighted avg       0.59      0.62      0.59      1776
