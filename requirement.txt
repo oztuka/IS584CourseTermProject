@@ -1,5 +1,15 @@
+This directory requires background knowledge about Python, Deep Learning and Text Analytics.
+
 In order to examine the pickle and pytorch files in data folder, you should use a Python IDE such as Anaconda, Google Colab and use the functions pickle.load and torch.load.
 
 Anaconda is a free open source software that does not require any sign up. However, to use Google Colab, you should have a Gmail account.
 
 The pickle and pytorch files in data folder were obtained by simulations and during these simulations, it was required to use T4 GPU in order to accelerate them. Google Colab has free T4 GPU support but it has daily usage quota so you may desire to get a pro version of Google Colab to access GPU much conveniently.
+
+Some figures were produced by using matplotlib command of Python and some of them were produced in WANDB environment. The WANDB page is public so a WANDB account is not needed to be opened.
+
+Notebooks are in .ipynb format so you should use either Jupyter from Anaconda or use Google Colab in order to examine and run them.
+
+During notebook runs, some libraries and zip folders are needed to be imported into the workspace. All related commands are available in these notebooks.
+
+Looking at reports can be done in Adobe or some other PDF opener applications.
