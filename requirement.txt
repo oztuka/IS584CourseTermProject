@@ -1,6 +1,6 @@
 This directory requires background knowledge about Python, Deep Learning and Text Analytics.
 
-In order to examine the pickle and pytorch files in data folder, you should use a Python IDE such as Anaconda, Google Colab and use the functions pickle.load and torch.load.
+In order to examine the pickle and pytorch files in data folder, you should use a Python IDE such as Spyder from Anaconda, Google Colab and use the functions pickle.load and torch.load.
 
 Anaconda is a free open source software that does not require any sign up. However, to use Google Colab, you should have a Gmail account.
 
