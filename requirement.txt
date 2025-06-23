@@ -1,1 +1,5 @@
+In order to examine the pickle and pytorch files in data folder, you should use a Python IDE such as Anaconda, Google Colab and use the functions pickle.load and torch.load.
 
+Anaconda is a free open source software that does not require any sign up. However, to use Google Colab, you should have a Gmail account.
+
+The pickle and pytorch files in data folder were obtained by simulations and during these simulations, it was required to use T4 GPU in order to fasten  
