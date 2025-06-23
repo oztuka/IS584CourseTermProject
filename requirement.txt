@@ -2,4 +2,4 @@ In order to examine the pickle and pytorch files in data folder, you should use 
 
 Anaconda is a free open source software that does not require any sign up. However, to use Google Colab, you should have a Gmail account.
 
-The pickle and pytorch files in data folder were obtained by simulations and during these simulations, it was required to use T4 GPU in order to fasten  
+The pickle and pytorch files in data folder were obtained by simulations and during these simulations, it was required to use T4 GPU in order to accelerate them. Google Colab has free T4 GPU support but it has daily usage quota so you may desire to get a pro version of Google Colab to access GPU much conveniently.
